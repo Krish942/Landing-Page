@@ -1,0 +1,16 @@
+.Structure{
+  display: flex;
+  justify-content: center;
+  padding: 40px;
+
+}
+
+.right{
+   width: 100%;
+   padding: 20px;
+   background-color: white;
+}
+
+#sem{
+     height: 225px;
+}

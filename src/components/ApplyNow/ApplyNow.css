@@ -1,0 +1,18 @@
+.apply{
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(31, 31, 187);
+    /* height: 50px; */
+    align-items: center;
+    padding: 30px;
+}
+
+.re{
+    color: white;
+    border: 1px solid blue;
+    padding: 10px;
+}
+.le{
+  font-size: large;
+  color: white;
+}
